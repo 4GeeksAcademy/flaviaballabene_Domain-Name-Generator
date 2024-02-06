@@ -12,4 +12,3 @@ for (let i = 0; i <= pronoun.length -1; i++){
         }
     }
 }
-console.log("Any string");
